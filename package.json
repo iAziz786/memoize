@@ -1,0 +1,10 @@
+{
+  "name": "memoize",
+  "version": "0.1.0",
+  "description": "Create memoized version of your functions",
+  "main": "lib/index.js",
+  "repository": "git@github.com:iAziz786/memoize.git",
+  "author": "Mohammad Aziz",
+  "license": "MIT",
+  "private": false
+}
